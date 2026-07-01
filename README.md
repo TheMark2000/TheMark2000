@@ -1,5 +1,5 @@
 - Hello, I’m @The_Mark
-- I’m interested in Data Science, Robotics, Machine Learning and AI 
+- I’m in Data Science, Robotics, Machine Learning and AI 
 - Reach me via email:mutiomark406@gmail.com
 
 <!---
